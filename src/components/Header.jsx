@@ -6,7 +6,7 @@ return  <li className='relative group'>
 <a href="/" className='px-4 py-2 '>
   Home
   </a>
-  <span className='text-blue-500 absolute translate-all duration-500 font-bold right-0 top-0 group-hover:right-[90%] opacity-0 group-hover:opacity-100'>
+  <span className='text-blue-700 absolute translate-all duration-500 font-bold right-0 top-0 group-hover:right-[90%] opacity-0 group-hover:opacity-100'>
     /
   </span>
 </li>
